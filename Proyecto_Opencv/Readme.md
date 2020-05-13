@@ -7,5 +7,5 @@
 **-Version de Opencv '4.2.0'**
 
 **de ahi entramos a la consola y ponemos**
-**python main.py**
+**"python main.py"**
 
